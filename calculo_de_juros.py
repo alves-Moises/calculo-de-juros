@@ -1,4 +1,4 @@
-while True:
+#while True:
 
     print('\nSelecione a opção desejada: ')
     opção = int(input('1 - Juros simples \n2 - Juros compostos \n3 - Sair \n\nOpção desejada: '))
